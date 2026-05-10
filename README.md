@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**khushi-sec/khushi-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Khushi Koli
 
-Here are some ideas to get you started:
+Python Developer | Cybersecurity Enthusiast | B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎨 About Me
+
+✨ A Python Developer and Cybersecurity Enthusiast focused on understanding how systems work, how they are attacked, and how they can be secured using logic, programming, and practical tools.
+
+🔭 Currently working on: Python projects and cybersecurity fundamentals  
+🎓 Pursuing: B.Tech in Computer Science Engineering  
+🌱 Learning: Networking basics, Linux (Kali Linux), and Ethical Hacking concepts  
+🛡️ Exploring Tools: Wireshark, Nmap, Burp Suite (for learning and practice)  
+⚡ Interests: Cybersecurity, Problem Solving, Hackathons, and System Security
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+- 🐍 Python
+
+### 🗄️ Database
+- SQLite
+
+### 🔐 Security Concepts
+- bcrypt (Password Hashing)
+- Regex (Validation)
+
+### 🌐 Frontend Basics
+- HTML
+- CSS
+
+---
+
+## 🔐 Projects
+
+### Password Strength Analyzer
+A Python-based tool that analyzes password strength, prevents reuse, generates secure passwords, and stores data securely using bcrypt and SQLite.
+
+**Tech Stack:** Python, SQLite, bcrypt, Regex
+
+---
+
+## 🎯 Goals
+
+- Strengthen Python development skills  
+- Learn networking and system security  
+- Practice ethical hacking fundamentals in safe environments  
+- Work on cybersecurity-based projects  
+- Build real-world security tools  
+
+---
+
+## 🌍 Connect With Me
+
+- GitHub: https://github.com/your-username
+
+---
+
+💡 “Learning how systems work is the first step to learning how to secure them.”
