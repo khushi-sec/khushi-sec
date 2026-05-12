@@ -14,34 +14,42 @@ Python Developer | Cybersecurity Enthusiast | B.Tech CSE Student
 🎓 Pursuing: B.Tech in Computer Science Engineering  
 🌱 Learning: Networking basics, Linux (Kali Linux), and Ethical Hacking concepts  
 🛡️ Exploring Tools: Wireshark, Nmap, Burp Suite (for learning and practice)  
-⚡ Interests: Cybersecurity, Problem Solving, Hackathons, and System Security
+⚡ Interests: Cybersecurity, Problem Solving, Hackathons, and System Security  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
-- 🐍 Python
+### 💻 Languages & Technologies
 
-### 🗄️ Database
-- SQLite
-
-### 🔐 Security Concepts
-- bcrypt (Password Hashing)
-- Regex (Validation)
-
-### 🌐 Frontend Basics
-- HTML
-- CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,react,html,css,tailwind,spring,mysql,nodejs" />
+</p>
 
 ---
 
 ## 🔐 Projects
 
-### Password Strength Analyzer
-A Python-based tool that analyzes password strength, prevents reuse, generates secure passwords, and stores data securely using bcrypt and SQLite.
+### 🔑 Password Strength Analyzer
+A Python-based tool that analyzes password strength, prevents password reuse, generates secure passwords, and stores credentials securely using bcrypt and SQLite.
 
 **Tech Stack:** Python, SQLite, bcrypt, Regex
+
+---
+
+### 🔍 Vulnerability Scanner
+A Python-based vulnerability scanner capable of:
+
+- Multi-threaded port scanning  
+- Banner grabbing  
+- Service/version detection  
+- Vulnerability identification  
+- Severity-based reporting  
+- Automated report generation  
+
+The scanner detects open ports, identifies outdated software versions, and generates vulnerability reports for educational purposes.
+
+**Tech Stack:** Python, Socket Programming, JSON, Multi-threading
 
 ---
 
@@ -50,15 +58,15 @@ A Python-based tool that analyzes password strength, prevents reuse, generates s
 - Strengthen Python development skills  
 - Learn networking and system security  
 - Practice ethical hacking fundamentals in safe environments  
-- Work on cybersecurity-based projects  
-- Build real-world security tools  
+- Build cybersecurity-based projects  
+- Develop real-world security tools  
 
 ---
 
 ## 🌍 Connect With Me
 
-- GitHub: https://github.com/your-username
+https://github.com/khushi-sec
 
 ---
 
-💡 “Learning how systems work is the first step to learning how to secure them.”
+💡 *“Learning how systems work is the first step to learning how to secure them.”* 
